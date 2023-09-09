@@ -1,1 +1,1 @@
-#file:///C:/weatherapp/index.html
+C:/weatherapp/index.html
