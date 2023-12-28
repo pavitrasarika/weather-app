@@ -1,5 +1,5 @@
 weather app
-https://github.com/pavitrasarika/weather-app.git
+http://127.0.0.1:5500/
 
 
 
